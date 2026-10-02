@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=HF Model Downloader
+GenericName=Model Downloader
+Comment=Download Hugging Face models (web GUI for hf-model-download.sh)
+Exec=bash /home/x01/Desktop/HF-Model-Downloader/hf-model-download-gui.sh
+Path=/home/x01/Desktop/HF-Model-Downloader
+Icon=emblem-downloads
+Terminal=false
+Categories=Network;Utility;
+StartupNotify=true
