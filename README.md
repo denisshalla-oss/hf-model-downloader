@@ -2,7 +2,7 @@
 
 Interactive + web-GUI downloader for [Hugging Face](https://huggingface.co) models with resume, SHA256 verification, and ComfyUI-aware folder layout.
 
-[![CI](https://github.com/your-username/hf-model-downloader/actions/badge.svg)](https://github.com/your-username/hf-model-downloader/actions)
+[![CI](https://github.com/denisshalla-oss/hf-model-downloader/actions/badge.svg)](https://github.com/denisshalla-oss/hf-model-downloader/actions)
 
 ## Features
 
