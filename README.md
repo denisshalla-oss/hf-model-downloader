@@ -74,6 +74,10 @@ HF Model Downloader.desktop # desktop icon
 - The GUI binds to localhost and accepts no external connections.
 - Downloaded files are verified against SHA256SUMS when the repo provides one, and `.gguf` files are checked for the GGUF magic bytes.
 
+## Contributing
+
+Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for setup, testing, commit style, and the release process.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
